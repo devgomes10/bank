@@ -1,5 +1,3 @@
-![Thumbnail GitHub](https://raw.githubusercontent.com/alura-cursos/alura_flutter_curso_7/master/Card%20Testes.png)
-
 # Praticando testes no Flutter
 
 ## 🛠️ Abrir e rodar o projeto
